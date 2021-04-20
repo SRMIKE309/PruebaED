@@ -16,8 +16,10 @@ public class Fecha {
 		this.dia=Integer.valueOf(fecha[0]);
 		this.mes=Integer.valueOf(fecha[1]);
 		this.ano=Integer.valueOf(fecha[2]);
-		
+		System.out.println("deftgyuiop");
 	}
+	
+	
 	
 	boolean m18(Fecha f1) {
 		int aux;
